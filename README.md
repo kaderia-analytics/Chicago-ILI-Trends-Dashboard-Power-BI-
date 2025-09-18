@@ -64,11 +64,6 @@ All visuals are aligned for flow and readability.
 
 
 ---
-
-## ✨ About Me
-
-Hi, I’m Kaderia — an MBA candidate (Business Analytics) pivoting into healthcare data and performance analytics. I build clear, clean dashboards that highlight what matters.
----
 **Note:** This project is for educational and portfolio purposes only. Data is publicly available and belongs to the City of Chicago.
 **Note:** This project is for educational and portfolio purposes only. Data is publicly available and belongs to the City of Chicago.
 
