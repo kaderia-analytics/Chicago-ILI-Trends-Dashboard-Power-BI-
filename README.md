@@ -16,7 +16,7 @@ Influenza-like illness (ILI) signals can serve as early warnings in public healt
 - Weeks exceeding CDC baseline
 - Seasonal peaks across five years
 
-The design aims for clarity, visual precision, and storytelling . Whether you're a healthcare analyst, public health leader, or hiring manager evaluating portfolio work.
+
 
 ---
 
