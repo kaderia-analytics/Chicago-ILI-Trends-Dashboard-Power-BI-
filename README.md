@@ -65,5 +65,4 @@ All visuals are aligned for flow and readability.
 
 ---
 **Note:** This project is for educational and portfolio purposes only. Data is publicly available and belongs to the City of Chicago.
-**Note:** This project is for educational and portfolio purposes only. Data is publicly available and belongs to the City of Chicago.
 
