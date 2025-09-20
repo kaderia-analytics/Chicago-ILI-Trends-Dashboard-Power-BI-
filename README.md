@@ -49,7 +49,7 @@ All visuals are aligned for flow and readability.
 - **130+ weeks** above baseline since 2017
 - **2020 and 2018** had the most pronounced spikes
 - Pandemic behavioral shifts show visible impact on flu trends
-- The 2024 glu season data appears lower than previous years possibly due to partial year reporting or a milder season.
+- The 2024 flu season data appears lower than previous years possibly due to partial year reporting or a milder season.
 
 ---
 
