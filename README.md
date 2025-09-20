@@ -3,7 +3,6 @@
 A data-driven look into flu season trends across Chicago tracking when communities crossed baseline levels, how each season compares, and what the latest signals reveal.
 
 📊 Built in Power BI | 🏥 Public Health Focus  
-🔗 Portfolio :[ https://www.notion.so/Hey-there-I-am-Kaderia-Burrows-1a298f02e461808fbe4de424f068d274?source=copy_link](https://www.notion.so/Kaderia-Burrows-25898f02e46180ad99c2e5ca85510708?source=copy_link)
 PowerBi Dashboard : https://app.powerbi.com/view?r=eyJrIjoiMGM4NGRkZGUtMjQxNC00MDI2LWFkZDQtYjBmYmZmYWY3Y2U0IiwidCI6ImFjNzllNWE4LWUwZTQtNDM0Yi1hMjkyLTJjODliNWMyODM2NiIsImMiOjF9&embedImagePlaceholder=true
 
 ---
